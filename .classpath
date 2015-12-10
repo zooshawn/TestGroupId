@@ -33,5 +33,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/Shawn/Documents/EclipseWorkHome/selenium-server-standalone-2.48.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
